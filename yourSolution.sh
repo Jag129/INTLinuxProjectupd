@@ -11,7 +11,7 @@ chmod 600 secretDir/.secret
 chmod a-x secretDir/.secret
 chmod +x ~/Downloads/project/src/generateSecret.sh
 rm -rf important.link
-~/Downloads/project/src/generateSecret.sh
+/bin/bash ~/Downloads/project/src/generateSecret.sh
 
 
 

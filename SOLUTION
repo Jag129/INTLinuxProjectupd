@@ -1,17 +1,18 @@
-<your secret here>      <<  Change this line. The secret must be placed in the first line
+814c5723c21e7e90a3eae36c8df3c513
+<<  Change this line. The secret must be placed in the first line
 
 
 Kernel System Calls
 -------------------
-<Your Answer>
-
+it creates a folder and inside creates a txt file
 
 Broken Symlink
 -------------------
-<Your Answer>
-
+the symlink is broken when you move him
+the fix will be to create the symlink directly to the directory that you want it
 
 
 Binary Numbers
 --------------
-<Your Answer>
+7422
+

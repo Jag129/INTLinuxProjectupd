@@ -9,7 +9,7 @@ tar -xvzf secretGenerator.tar.gz
 touch secretDir/.secret
 chmod 600 secretDir/.secret
 chmod a-x secretDir/.secret
-chmod +x generateSecret.sh
+chmod +x ~/Downloads/project/src/generateSecret.sh
 rm -rf important.link
 ~/Downloads/project/src/generateSecret.sh
 

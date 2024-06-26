@@ -1,7 +1,7 @@
-cd ~/Downloads/project/
-pwd
-wget https://alonitac.github.io/DevOpsTheHardWay/linux_project/secretGenerator.tar.gz
-tar -xvzf secretGenerator.tar.gz
+#cd ~/Downloads/project/
+#pwd
+#wget https://alonitac.github.io/DevOpsTheHardWay/linux_project/secretGenerator.tar.gz
+#tar -xvzf secretGenerator.tar.gz
 cd ~/Downloads/project/src
 mkdir secretDir
 #mv -f src/* ./

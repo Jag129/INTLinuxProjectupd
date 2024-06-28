@@ -11,10 +11,10 @@ mkdir secretDir
 touch secretDir/.secret
 chmod 600 secretDir/.secret
 chmod a-x secretDir/.secret
-rm -rf ~/Downloads/project/src/maliciousFiles
-chmod +x ~/Downloads/project/src/generateSecret.sh
+rm -rf maliciousFiles
+chmod +x generateSecret.sh
 rm -rf important.link
-bash ~/Downloads/project/src/generateSecret.sh
+bash generateSecret.sh
 
 
 
